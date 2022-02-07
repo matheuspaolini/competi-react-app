@@ -46,10 +46,13 @@ $ yarn dev
 $ yarn build && yarn preview
 ```
 
-### Navegação pela UI
-- Pokémon Logo -> Botão para a Home.
+### Navegação
+- Pokémon Logo -> Botão para a Home. 
+	- Path: /
 - Login -> Botão para Página de Autenticação.
+	- Path: /auth
 - Username após Login -> Botão para Pokedex do Usuário.
+	- Path: /pokedex
 
 ## :muscle: Melhorias
 - Resetar o número da página atual após o tipo de busca ser alterado;
