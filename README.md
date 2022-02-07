@@ -46,6 +46,10 @@ $ yarn dev
 $ yarn build && yarn preview
 ```
 
+### Navegação
+- Pokémon Logo -> Botão para a Home.
+- Login -> Botão para Página de Autenticação.
+- Username após Login -> Botão para Pokedex do Usuário.
 
 ## :muscle: Melhorias
 - Resetar o número da página atual após o tipo de busca ser alterado;
