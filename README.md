@@ -52,3 +52,4 @@ $ yarn build && yarn preview
 - Mostrar scrollbars somente quando o elemento estiver dando overflow;
 - Adicionar validadores nos inputs;
 - Adicionar tratamento de erros da API e feedback para o usuário.
+- Adicionar arquivo para centralizar as rotas da API e remover hardcode.
