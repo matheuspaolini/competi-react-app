@@ -54,7 +54,7 @@ $ yarn build && yarn preview
 - Username após Login -> Botão para Pokedex do Usuário.
 	- Path: /pokedex
 
-## :muscle: Melhorias
+## :muscle: Melhorias e correções
 - Resetar o número da página atual após o tipo de busca ser alterado;
 - Mostrar scrollbars somente quando o elemento estiver dando overflow;
 - Adicionar validadores nos inputs;
