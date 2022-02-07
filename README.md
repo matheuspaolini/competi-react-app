@@ -46,7 +46,7 @@ $ yarn dev
 $ yarn build && yarn preview
 ```
 
-### Navegação
+### Navegação pela UI
 - Pokémon Logo -> Botão para a Home.
 - Login -> Botão para Página de Autenticação.
 - Username após Login -> Botão para Pokedex do Usuário.
